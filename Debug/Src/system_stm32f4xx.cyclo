@@ -1,0 +1,5 @@
+../Src/system_stm32f4xx.c:27:13:ConfigureClock	4
+../Src/system_stm32f4xx.c:78:13:EnableMC01	1
+../Src/system_stm32f4xx.c:90:13:ConfigureMC01_Gpio	1
+../Src/system_stm32f4xx.c:108:6:SystemInit	1
+../Src/system_stm32f4xx.c:116:6:SystemCoreClockUpdate	1
